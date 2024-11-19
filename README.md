@@ -1,4 +1,4 @@
-# transformers-notebook
+# transformer-notebook
 
 Decoder-only transformer implemented from scratch in [PyTorch](https://pytorch.org/) based on Andrej Karpathy's [nanoGPT lecture](https://youtu.be/kCc8FmEb1nY?si=mNj4qOlVlpTBxQ6E).
 
