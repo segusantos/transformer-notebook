@@ -1,6 +1,6 @@
 # transformer-notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/segu/transformer-notebook/blob/main/transformer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/segusantos/transformer-notebook/blob/main/transformer.ipynb)
 
 Decoder-only transformer implemented from scratch in [PyTorch](https://pytorch.org/) based on Andrej Karpathy's [nanoGPT lecture](https://youtu.be/kCc8FmEb1nY?si=mNj4qOlVlpTBxQ6E).
 
